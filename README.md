@@ -22,8 +22,11 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<a>
+ -
+</a>
 
-### ⚙️ GitHub statistics:
+## ⚙️ GitHub statistics:
 
  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MatveyPrisaznuk&theme=dark&hide_border=true" alt="webDev's Github stats" />
- 
+

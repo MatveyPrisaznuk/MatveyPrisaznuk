@@ -1,6 +1,6 @@
 ### Hi there 👋, I am q1dox
 ---
-##### <p align="center">Young Front-end developer. HTML&CSS😽</p>
+##### <p align="center">Young Front-end developer. HTML&CSS</p>
 
 ![Profile image](no__internet.gif)
 
@@ -13,7 +13,7 @@
 
 - 🌱 All my works are free, you can take it!
 
-![](https://komarev.com/ghpvc/?username=belushkin)
+
                                                      
 <!--
 **MatveyPrisaznuk/MatveyPrisaznuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

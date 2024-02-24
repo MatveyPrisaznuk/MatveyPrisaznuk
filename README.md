@@ -1,11 +1,11 @@
 ### Hi there 👋, I am q1dox
 ---
-##### <p align="center">Young Front-end developer. HTML&CSS</p>
+##### <p align="center">Young Front-end developer. HTML&CSS😽</p>
 
 ![Profile image](no__internet.gif)
 
 
-## Only Frontend!
+## Only Frontend!👾
 
 - 🔭 I’m currently continue developing my project https://github.com/MatveyPrisaznuk/chat-roulette
 

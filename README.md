@@ -5,6 +5,8 @@
 ![Profile image](no__internet.gif)
 
 
+##Only Frontend!
+
 - 🔭 I’m currently continue developing my project https://github.com/MatveyPrisaznuk/chat-roulette
 
 - 🔭 I have 6 full project!!!

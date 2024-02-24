@@ -3,14 +3,13 @@
 ##### <p align="center">Young Front-end developer. HTML&CSS</p>
 
 ![Profile image](no__internet.gif)
-![Profile image](no__internet2.gif)
-![Profile image](no__internet4.gif)
 
-🔭 I’m currently continue developing my project https://github.com/MatveyPrisaznuk/chat-roulette
 
-🔭 I have 6 full project!!!
+- 🔭 I’m currently continue developing my project https://github.com/MatveyPrisaznuk/chat-roulette
 
-🌱 All my works are free, you can take it!
+- 🔭 I have 6 full project!!!
+
+- 🌱 All my works are free, you can take it!
 
 ![](https://komarev.com/ghpvc/?username=belushkin)
                                                      

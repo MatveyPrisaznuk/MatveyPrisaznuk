@@ -2,7 +2,9 @@
 ---
 ##### <p align="center">Young Front-end developer. HTML&CSS</p>
 
-![Profile image](no__internet.gif)
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
 
 
 ## Only Frontend!👾

@@ -1,32 +1,25 @@
-### > Hi there 👋, I am q1dox
+### > Hi 👋, I'm Matvey
 ---
-##### <p align="center">Young Front-end developer. HTML&CSS</p>
+##### <p align="center">Frontend developer from Ukraine</p>
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
 
-## Only Frontend!👾
+- 🔭 I’m currently working on **WebStudio**
 
-- 🔭 I’m currently continue developing my project https://github.com/MatveyPrisaznuk/chat-roulette
+- 🌱 I’m currently learning **HTML&CSS**
 
-- 🔭 I have 6 full project!!!
+<p align="left">
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=matveyprisaznuk&label=Profile%20views&color=0e75b6&style=flat" alt="matveyprisaznuk" /> </p>
+</p>
 
-- 🌱 All my works are free, you can take it!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-## Languages I work in:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/office/16/html.png"/>
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<a>
- -
-</a>
 
 ## ⚙️ GitHub statistics:
 
  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MatveyPrisaznuk&theme=dark&hide_border=true" alt="webDev's Github stats" />
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matveyprisaznuk&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="matveyprisaznuk" /></p>

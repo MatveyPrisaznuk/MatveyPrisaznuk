@@ -1,25 +1,35 @@
-### > Hi 👋, I'm Matvey
----
-##### <p align="center">Frontend developer from Ukraine</p>
+<h2 align="left"> > Hi 👋! My name is Matvey, I'm a FrontEnd Develope from Ukraine</h2>
 
-<p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
-</p>
+###
 
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=MatveyPrisaznuk&theme=dark&hide_border=true" height="150" alt="webDev's Github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matveyprisaznuk&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" height="150" alt="matveyprisaznuk" /></p>
+</div>
 
-- 🔭 I’m currently working on **WebStudio**
+###
 
-- 🌱 I’m currently learning **HTML&CSS**
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwxcmxjczlseXFneWFlbmNqbWFndmIzZHhwaDF6cG1zNDd2MTUzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 
-<p align="left">
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=matveyprisaznuk&label=Profile%20views&color=0e75b6&style=flat" alt="matveyprisaznuk" /> </p>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" height="30" alt="unity logo" />
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"/>
+  <img width="12" />                 
+</div>
 
+###
 
-## ⚙️ GitHub statistics:
+<img width="800" src="github-snake.svg" alt="snake"/>
 
- <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MatveyPrisaznuk&theme=dark&hide_border=true" alt="webDev's Github stats" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matveyprisaznuk&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="matveyprisaznuk" /></p>
+###

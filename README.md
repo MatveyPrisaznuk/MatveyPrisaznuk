@@ -30,6 +30,6 @@
 
 ###
 
-<img width="800" src="github-snake.svg" alt="snake"/>
+<img width="700" src="github-snake.svg" alt="snake"/>
 
 ###

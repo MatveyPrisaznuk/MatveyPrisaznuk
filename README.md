@@ -38,6 +38,6 @@
 
 ###
 
-<img width="650" src="github-snake.svg" alt="snake"/>
+<img width="700" src="github-snake.svg" alt="snake"/>
 
 ###

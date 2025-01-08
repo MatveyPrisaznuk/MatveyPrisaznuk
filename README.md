@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matveyprisaznuk&show_icons=true&theme=dark&hide_border=true&locale=en" height="110" alt="matveyprisaznuk" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=MatveyPrisaznuk&theme=dark&hide_border=true" height="110" alt="webDev's Github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matveyprisaznuk&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" height="110" alt="matveyprisaznuk" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=matveyprisaznuk&show_icons=true&theme=dark&hide_border=true&locale=en" height="115" alt="matveyprisaznuk" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=MatveyPrisaznuk&theme=dark&hide_border=true" height="115" alt="webDev's Github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matveyprisaznuk&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" height="115" alt="matveyprisaznuk" /></p>
 </div>
 
 ###

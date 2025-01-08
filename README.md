@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matveyprisaznuk&show_icons=true&theme=dark&hide_border=true&locale=en" height="115" alt="matveyprisaznuk" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=MatveyPrisaznuk&theme=dark&hide_border=true" height="115" alt="webDev's Github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matveyprisaznuk&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" height="115" alt="matveyprisaznuk" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matveyprisaznuk&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" height="115" alt="matveyprisaznuk" />
 </div>
 
 ###
@@ -25,8 +25,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" height="30" alt="unity logo" />
   <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"/>
-  <img width="12" />                 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"/>  
+  <img width="12" />
 </div>
 
 ###

@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatveyPrisaznuk&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="115" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=MatveyPrisaznuk&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="115" alt="streak graph"  />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=MatveyPrisaznuk&theme=dark&hide_border=true" height="115" alt="webDev's Github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatveyPrisaznuk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="115" alt="languages graph"  />
 </div>
 

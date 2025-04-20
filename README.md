@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img width="900" src="github-snake.svg" alt="snake"/>
+![snake gif](https://github.com/MatveyPrisaznuk/MatveyPrisaznuk/blob/output/github-snake-dark.svg)
 
 ###
